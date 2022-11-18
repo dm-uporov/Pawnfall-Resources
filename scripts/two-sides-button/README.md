@@ -1,4 +1,4 @@
-# Two-sides buttons scirpts for Unity
+# Two-sides buttons scripts for Unity
 
 These scripts allows you to turn 3D objects on every click by 180 degrees.
 
